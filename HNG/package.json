@@ -1,0 +1,24 @@
+{
+  "name": "hng-task-1",
+  "version": "1.0.0",
+  "description": "This is a repository for all my task on the HNG internship",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dayo2013/HNGbackendtask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dayo2013/HNGbackendtask.git"
+  },
+  "homepage": "https://github.com/dayo2013/HNGbackendtask.git",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
